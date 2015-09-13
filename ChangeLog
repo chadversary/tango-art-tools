@@ -1,0 +1,54 @@
+2007-02-18  Jakub Steiner <jimmac@ximian.com>
+
+	* palettes/Tango-Palette.gpl: remove cockup
+
+2006-03-15  Jakub Steiner <jimmac@ximian.com>
+
+	* palettes/Tango.clr: Mac OS X Tango palette submitted by 
+		Alex Kadis <akadis2+tango@gmail.com>
+	
+2006-03-02  Jakub Steiner <jimmac@ximian.com>
+
+	* palettes/Tango-Palette.{png,svg}: add hex tripletts
+
+2006-01-09  Jakub Steiner <jimmac@ximian.com>
+
+	* logo/*: the tango project logo by garrett
+
+2005-11-08  Jakub Steiner <jimmac@ximian.com>
+
+	* palettes/Tango-Palette.gpl
+	* palettes/Tango-Palette.png
+	* palettes/Tango-Palette.svg: more vibrant colors. Designed by
+		Comitee (TM)
+
+2005-11-01  Jakub Steiner <jimmac@ximian.com>
+
+	* templates/tango_icon.svg: Inkscape Template
+	
+2005-10-24  Jakub Steiner <jimmac@ximian.com>
+
+	* palettes/Tango-Palette.gpl: eek, the typo again!
+
+2005-10-24  Jakub Steiner <jimmac@ximian.com>
+
+	* palettes/Tango-Palette.png: add a PNG rendition
+
+2005-10-24  Jakub Steiner <jimmac@ximian.com>
+
+	* palettes/Tango-Palette.svg:
+	* palettes/Tango-Palette.gpl: boost colors a little
+
+2005-10-13  Jakub Steiner <jimmac@ximian.com>
+
+	* COPYING, COPYING.CC: The palettes are PD, but more CC content is
+		coming.
+
+2005-10-13  Jakub Steiner <jimmac@ximian.com>
+
+	* palettes/Tango-Palette.svg: s/Plumb/Plum/ change license to
+	  Public Domain so that everyoine can ship it.
+	
+2005-10-11  Jakub Steiner <jimmac@ximian.com>
+
+	* initial import
