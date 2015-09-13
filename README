@@ -1,0 +1,12 @@
+Tango Color Palette
+-------------------
+
+The Tango Desktop Project exists to help create a consistent graphical user
+interface experience for free and Open Source software.  See
+http://tango.freedesktop.org for details.
+
+This repository partially mirrors the CVS repository at
+http://tango.freedesktop.org/static/cvs/tango-art-tools/, which is inactive as
+of 2015-09-12.  It mirrors the color palette images, the original copyright
+and author information, and the CVS changelog. All other files, having become
+irrelevant over the years, are omitted.
